@@ -16,7 +16,7 @@ public class Hollo_rectangle {
                     System.out.print(" ");
                 }
             }
-            System.out.println("");
+            System.out.println(" ");
         }
     }
     
